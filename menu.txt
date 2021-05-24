@@ -1,0 +1,25 @@
+Name of the game = pick_cells
+
+1) Play Game (Login with existing id)
+2) Create profile (create profile)
+3) Rules
+	- collect green points
+	- avoid red points
+4) Leaderboard (comparing with various id's)
+5) Personal stats
+6) View Controls
+7) Exit
+
+how bharani wants score ?
+updating in the database
+call func updatescore(char id[5], int score) 
+the id is 4 size
+
+call fun create_profille()
+
+score already done by bhoopathi
+level part done by mehul and chandru 
+
+Barani and nikhil - database and menu
+
+
